@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shakkaw
-- I’m interested in Python and Data Manipulation
+- I’m interested in Python and SysAdmin
 - I’m currently learning Advanced Python Concepts, Cybersecurity and Database Administration.
 - 📫 Feel free to PM me on GitHub or reach me on https://www.linkedin.com/in/andr%C3%A9-lopes-71a5811bb/ 
 
